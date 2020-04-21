@@ -12,6 +12,7 @@ ipykernel = "*"
 jupyter = "*"
 sklearn = "*"
 joblib = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.8.2"
